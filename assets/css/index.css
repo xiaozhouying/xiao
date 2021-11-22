@@ -3,7 +3,7 @@
  * 公共部分
  * ------------------------------------------------- */
 body {
-  background: #e5e5e5 url(../../assets/images/background.png);
+  background: #e6e6e6 url("../images/dongtaibeijingtu.gif");
   width: 100%;
   overflow-x: hidden;
   padding: 1rem 10%;
@@ -31,7 +31,7 @@ body {
 .container .side {
   position: absolute;
   width: 20rem;
-  background: #fff;
+  background: rgba(70, 184, 192, 0.726);
   border-radius: 5px;
   box-shadow: 0 5px 20px #bbb;
   box-sizing: border-box;
@@ -101,7 +101,7 @@ body {
 .container .main {
   position: relative;
   margin-left: 22rem;
-  background: #fff;
+  background: rgba(51, 227, 233, 0.712);
   border-radius: 5px;
   box-shadow: 0 5px 20px #bbb;
   box-sizing: border-box;
